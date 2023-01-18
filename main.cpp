@@ -1,7 +1,7 @@
 #include <iostream>
 #define MAXN 100
 #define MAXM 100
-#define MINX -2
+#define MINX (-2)
 #define MAXX 7
 
 #define MAXRNDX (MAXX - MINX + 1)
